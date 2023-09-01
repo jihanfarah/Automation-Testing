@@ -14,3 +14,6 @@ This project is based on [SauceDemo]() website using Robot dan Selenium framewor
 ## How to run in local folder
 1. Clone this project
 2. Run with `robot login.robot`
+
+## Result
+The result can be seen [here](https://jihanfarah.github.io/Automation-Testing/report.html)
